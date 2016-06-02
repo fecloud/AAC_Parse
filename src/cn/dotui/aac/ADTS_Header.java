@@ -10,6 +10,7 @@ import java.io.InputStream;
  * The class <code>ADTS</code>
  * 
  * @author Feng OuYang
+ * 
  * @version 1.0
  */
 public class ADTS_Header {
